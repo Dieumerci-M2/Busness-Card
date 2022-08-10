@@ -1,0 +1,37 @@
+.foot{
+    background-color: #161619;
+    min-width: 317px;
+    max-width: 317px;
+    min-height: 64px;
+    max-height: 64px;
+    color: #918E9B;
+    margin: 0 32.3rem;
+  
+}
+.logo-link{
+    padding-top: 20px;
+    border-radius: 0px 0px 10px 10px;
+    display: flex;
+    justify-content: center;
+    gap : 20px;
+}
+#twitter{
+
+    font-size: 30px;
+}
+#facebook{
+
+    font-size: 30px;
+
+}
+#instagram{
+    font-size: 30px;
+}
+#linkdin{
+
+    font-size: 30px;
+}
+#git{
+
+    font-size: 30px;
+}

@@ -1,8 +1,9 @@
-import Header from '../styles/Header.css'
+import '../styles/Header.css'
+import image from '../assets/Rectangle 90.png'
 const Hedear = () => {
     return ( 
-        <div>
-            
+        <div className='img-header'>
+           <img src={image} alt="Busness-woman" /> 
         </div>
      );
 }
