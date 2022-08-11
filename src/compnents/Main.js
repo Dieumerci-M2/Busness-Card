@@ -16,26 +16,29 @@ const Main = () => {
             </div>
             <div className="about">
                 <h2>About</h2>
-            </div>
-            <p className='para-about'>
-                I'm a Frontend Developer with a particular interest
-                in making things simple and automating daily
-                task. I try to keep up security and best
-                pratices, and im always looking for new things to
-                learn.
-            </p>
-            <div className="interest">
+                <div className='para-about'>
+                <p>
+                    I'm a Frontend Developer with a particular interest
+                    in making things simple and automating daily
+                    task. I try to keep up security and best
+                    pratices, and im always looking for new things to
+                    learn.
+                </p>
+                </div>
+                <div className='interest'>
                 <h2>Interest</h2>
+                </div>
+               
+                <div className='para-interest'>
+                <p>
+                    Foode expert. Music Scholar.Reader. Internet
+                    fanatic. Bacon Buff. Entrepreneur. Travel geek. 
+                    Pop culture ninja. Coffee fanatic.
+
+                </p>
+                </div>
+            
             </div>
-            <p className='para-interest'>
-                Foode expert. Music Scholar.Reader. Internet
-                fanatic. Bacon Buff. Entrepreneur. Travel geek. 
-                Pop culture ninja. Coffee fanatic.
-
-            </p>
-
-
-
         </section>
        
      );
